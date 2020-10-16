@@ -1269,7 +1269,7 @@ input, select, textarea {
 		}
 
 			#header > *:before {
-				content: '';
+				/* content: ''; */
 				display: block;
 				position: absolute;
 				top: calc(-3.5rem - 1px);
